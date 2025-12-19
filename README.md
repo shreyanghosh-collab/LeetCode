@@ -35,4 +35,12 @@ Solved Problems on LeetCode
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shreyanghosh-collab/LeetCode/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyanghosh-collab/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyanghosh-collab/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
