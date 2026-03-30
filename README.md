@@ -90,4 +90,12 @@ Solved Problems on LeetCode
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanghosh-collab/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shreyanghosh-collab/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shreyanghosh-collab/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
